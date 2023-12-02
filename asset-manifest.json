@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Amit-Kumar22/react-cal/static/css/main.8db600ba.css",
+    "main.js": "/Amit-Kumar22/react-cal/static/js/main.a21fb959.js",
+    "index.html": "/Amit-Kumar22/react-cal/index.html",
+    "main.8db600ba.css.map": "/Amit-Kumar22/react-cal/static/css/main.8db600ba.css.map",
+    "main.a21fb959.js.map": "/Amit-Kumar22/react-cal/static/js/main.a21fb959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db600ba.css",
+    "static/js/main.a21fb959.js"
+  ]
+}
